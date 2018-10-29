@@ -277,8 +277,8 @@ namespace BowlingTests
 		//	};
 
 		//	var frame9Score = 10;
-		//	var frame9Bonus = 10;
-		//	var frame10Score = 10;
+		//	var frame9Bonus = 9 + 1;
+		//	var frame10Score = 9 + 1;
 		//	var frame10BonusBalls = 1;
 
 		//	Assert.That(game.GetScore(), Is.EqualTo(frame9Score + frame9Bonus + frame10Score + frame10BonusBalls));
